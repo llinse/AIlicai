@@ -37,6 +37,11 @@ page {
   font-size: 60rpx;
 }
 .questionare-result{
+  margin-top: 200rpx; 
+   width:50%;
+}
+.questionare-result{
+  margin-top: 110rpx;
   margin-top: 200rpx;
   width: 50%;
 }
