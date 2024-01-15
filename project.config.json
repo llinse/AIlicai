@@ -122,6 +122,13 @@
 					"id": -1,
 					"name": "statistics",
 					"pathName": "pages/statistics/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pie",
+					"pathName": "pages/statistics/index",
 					"scene": null
 				}
 			]
